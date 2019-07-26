@@ -1,0 +1,207 @@
+* {
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+  font-family: 'Handlee', cursive;
+}
+
+body{
+    font-family: 'Handlee', cursive;
+}
+nav{
+    margin-top: -2rem;
+  background:lightblue;
+
+  width:100%;
+  
+ 
+  
+}
+#nav-title{
+  text-align:center;
+  margin-bottom:0.5rem;
+}
+ul{
+ margin-left:44rem;
+
+  opacity:1;
+  display:inline-flex;
+}
+li{
+  font-size:16px;
+  margin-left:1rem;
+  list-style:none
+}
+a{
+  opacity:1;
+  text-decoration:none;
+  text-align:center;
+}
+.heading{
+  
+  background-image: url("img/lipgloss.jpg");
+}
+
+.wrapper{
+  background-color:violet;
+  opacity:.7
+}
+.container{
+  padding-top:15rem;
+    padding-bottom:40rem;
+    padding-left:7rem;
+}
+#title{
+    text-align: center;
+}
+#slogan{
+    text-align: center;
+}
+.grid-container {
+    display: grid;
+    grid-column-gap: 50px;
+  }
+  .row{
+      margin-left:-3rem;
+  }
+  #products{
+      text-align: center;
+  }
+  #products-heading{
+    text-align:center;
+  }
+  h3{
+    margin-left:-1rem;
+  }
+  .products-1{
+      width:43%;
+      border-radius: 50%;
+     
+  }
+  .products-2{
+    width:43%;
+    border-radius: 50%;
+   
+}
+.products-3{
+      width:43%;
+      border-radius: 50%;
+     
+  }
+  .products-4{
+    width:43%;
+    border-radius: 50%;
+   
+}.products-5{
+      width:43%;
+      border-radius: 50%;
+     
+  }
+  .products-6{
+      width:43%;
+      border-radius: 50%;
+     
+  }
+  .products-7{
+    width:43%;
+    border-radius: 50%;
+   
+}
+.products-8{
+  width:43%;
+  border-radius: 50%;
+ 
+}
+.products-9{
+  width:43%;
+  border-radius: 50%;
+ 
+}
+  .products-container{
+      margin-left: 20rem;
+  }
+  .button-1{
+    display:none;
+position: absolute;
+margin-top:-5rem;
+margin-left:5rem;
+  }
+  .button-2{
+    display:none;
+position: absolute;
+margin-top:-5rem;
+margin-left:5rem;
+  }
+  .button-3{
+    display:none;
+position: absolute;
+margin-top:-5rem;
+margin-left:5rem;
+  }
+  .button-4{
+    display:none;
+position: absolute;
+margin-top:-5rem;
+margin-left:5rem;
+  }
+  .button-5{
+    display:none;
+position: absolute;
+margin-top:-5rem;
+margin-left:5rem;
+  }
+  .button-6{
+    display:none;
+position: absolute;
+margin-top:-5rem;
+margin-left:5rem;
+  }
+  .button-7{
+    display:none;
+position: absolute;
+margin-top:-5rem;
+margin-left:5rem;
+  }
+  .button-8{
+    display:none;
+position: absolute;
+margin-top:-5rem;
+margin-left:5rem;
+  }
+  .button-9{
+    display:none;
+position: absolute;
+margin-top:-5rem;
+margin-left:5rem;
+  }
+  .button--open{
+display:block;
+  }
+  h3{
+    margin-left: 4rem;
+  }
+ p{
+     margin-left: 10rem;
+ }
+ .contact{
+   text-align:center;
+ }
+ .contact-icons{
+   display:inline-flex;
+   margin-left:2rem;
+ }
+ i{
+   margin-left:1rem;
+ }
+ footer{
+   margin-top:5rem;
+   display:inline-flex;
+   background-color: lightblue;
+   width:100%
+ }
+ .footer-text{
+  
+   text-align:center;
+ }
+
+
